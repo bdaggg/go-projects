@@ -6,6 +6,7 @@ import (
 
 func main() {
 	project.UrunEkleme()
-	project.GetAllProduct()
 	project.Veritabani()
+	project.GetAllProduct()
+	
 }
