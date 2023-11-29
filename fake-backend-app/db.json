@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "leptop",
+      "categoryId": 1,
+      "unitPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Mause",
+      "categoryId": 1,
+      "unitPrice": 50
+    },
+    {
+      "id": 3,
+      "productName": "wather",
+      "categoryId": 2,
+      "unitPrice": 1.5
+    },
+    {
+      "id": 4,
+      "productName": "monitor",
+      "categoryId": 1,
+      "unitPrice": 1500
+    },
+    {
+      "id": 5,
+      "productName": "monitor",
+      "categoryId": 1,
+      "unitPrice": 1500
+    },
+    {
+      "id": 6,
+      "productName": "monitor",
+      "categoryId": 1,
+      "unitPrice": 1501
+    },
+    {
+      "id": 7,
+      "productName": "mikrofon",
+      "categoryId": 1,
+      "unitPrice": 250
+    },
+    {
+      "id": 8,
+      "productName": "mikrofon",
+      "categoryId": 1,
+      "unitPrice": 250
+    },
+    {
+      "id": 9,
+      "productName": "mikrofon",
+      "categoryId": 1,
+      "unitPrice": 250
+    },
+    {
+      "id": 10,
+      "productName": "mikrofon",
+      "categoryId": 1,
+      "unitPrice": 250
+    },
+    {
+      "id": 11,
+      "productName": "mikrofon",
+      "categoryId": 1,
+      "unitPrice": 250
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Techonology"
+    },
+    {
+      "id": 2,
+      "categoryName": "Beverages"
+    }
+  ]
+}
